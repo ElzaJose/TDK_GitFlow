@@ -1,1 +1,2 @@
 add a new file
+VS Code is being tested with this file
